@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1056061587703",
+    "firebase_url": "https://enelchat.firebaseio.com",
+    "project_id": "enelchat",
+    "storage_bucket": "enelchat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056061587703:android:3af25f4cdb00f352",
+        "android_client_info": {
+          "package_name": "com.example.kdeek.enelchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056061587703-snlgajadi6qh64a7g9uv5djbo0trj1m2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kdeek.enelchat",
+            "certificate_hash": "54669E1A9A67BB9DD4EC4CDFBB3AD7967A700B44"
+          }
+        },
+        {
+          "client_id": "1056061587703-ubhhcb1hoiobtmmq5mdqcb5j53alf8h6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy58fY8Xk2QCp1gKFrU4Qn0Jv6__X2wT8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056061587703-ubhhcb1hoiobtmmq5mdqcb5j53alf8h6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
